@@ -1,9 +1,7 @@
 // data.js
 const users = [
-  { email: 'luisquispe@gmail.com', password: '123456789' },
-  { email: 'bao@example.com', password: '123456' },
-  { email: 'bao', password: '123' },
-  // ... otros usuarios
+  { email: 'giancarlos@gmail.com', password: '123456789' },
+  
 ];
 
 const categories = [
